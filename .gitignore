@@ -1,0 +1,10 @@
+/src/__pycache__/
+
+# virtual env
+/env  
+
+/notebooks/.ipynb_checkpoints
+
+/data/raw
+
+# check
